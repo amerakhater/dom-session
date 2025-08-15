@@ -1,0 +1,17 @@
+/* .first{
+    background-color: ;
+} */
+
+.listBox {
+    border: 1px solid #ccc;       /* Light gray border */
+    border-radius: 6px;           /* Rounded corners */
+    padding: 10px 15px;           /* Space inside the box */
+    margin-bottom: 8px;           /* Space between boxes */
+    background-color: #f9f9f9;    /* Light background */
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1); /* Subtle shadow */
+    list-style-type: none;        /* Remove default number style */
+}
+/* Remove default <ol> styling */
+ol {
+    padding-left: 0;
+}
